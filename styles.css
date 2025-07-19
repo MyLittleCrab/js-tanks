@@ -1,0 +1,24 @@
+#loader { 
+    background: url('media/pixel.png') no-repeat; 
+    margin-left: -1000px;
+}
+
+#loader2 {
+    background: url('media/unnamed.png') no-repeat; 
+    margin-left: -1000px;	
+}
+
+#loader3 {
+    background: url('media/unnamed2.png') no-repeat; 
+    margin-left: -1000px;	
+}
+
+#message {
+    font-size: 50px;
+}
+
+#kills {
+    font-size: 20px;
+    position: absolute;
+    top: 40px;
+}
